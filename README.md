@@ -46,6 +46,21 @@ Cada `SKILL.md` es un texto que puedes editar, y termina con una sección **"Ad�
 
 Todo se queda en tus archivos locales. `ver-video` descarga vídeos a tu equipo y los transcribe en tu equipo; no envía nada a ningún servicio. Si usas `--cookies-de`, yt-dlp lee las sesiones de tu navegador solo para bajar ese vídeo.
 
+## Packs de skills de trading (gratis)
+
+Cinco packs listos para Claude, con guía de instalación y licencias incluidas. Contenido educativo, no es consejo financiero.
+
+| Pack | Para qué | Descarga |
+|---|---|---|
+| 1 · Antes de operar | Tamaño de posición, checklist de disciplina, freno de pérdidas | [ZIP](https://github.com/santiago-gif997/verso-skills/releases/download/packs-v1/pack-1-antes-de-operar.zip) |
+| 2 · Después de operar | Registro de operaciones y revisión | [ZIP](https://github.com/santiago-gif997/verso-skills/releases/download/packs-v1/pack-2-despues-de-operar.zip) |
+| 3 · Leer el mercado | Amplitud, régimen, calendario económico (pensado para acciones e índices de EE. UU.) | [ZIP](https://github.com/santiago-gif997/verso-skills/releases/download/packs-v1/pack-3-leer-el-mercado.zip) |
+| 4 · Oro y simulación | Lotes con spread, simulación de 10.000 trades, profesor de trading | [ZIP](https://github.com/santiago-gif997/verso-skills/releases/download/packs-v1/pack-4-oro-y-simulacion.zip) |
+| 5 · Day trading acciones EE. UU. | Cadena de day trading | [ZIP](https://github.com/santiago-gif997/verso-skills/releases/download/packs-v1/pack-5-day-trading-acciones-eeuu.zip) |
+| Todos | Los cinco packs | [ZIP](https://github.com/santiago-gif997/verso-skills/releases/download/packs-v1/pack-completo.zip) |
+
+Las skills de terceros conservan su licencia MIT y su crédito (TraderMonty, Jakeschincariol).
+
 ## Licencia
 
 MIT: úsalas, cámbialas y compártelas. Mira `LICENSE`.
